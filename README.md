@@ -21,3 +21,4 @@ Soy un apasionado de la tecnología y la programación, actualmente cursando el 
 
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="left" />
 
+![GerardJalonG's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardjalong&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)

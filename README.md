@@ -17,3 +17,7 @@ Soy un apasionado de la tecnología y la programación, actualmente cursando el 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerard-jalon/)](https://www.linkedin.com/in/gerard-jalon/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gerard.jalon@gmail.com)](mailto:gerard.jalon@gmail.com)
+
+<br>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GerardJalonG&show_icons=true&hide_title=true)
+

@@ -18,8 +18,6 @@ Soy un apasionado de la tecnología y la programación, actualmente cursando el 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerard-jalon/)](https://www.linkedin.com/in/gerard-jalon/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gerard.jalon@gmail.com)](mailto:gerard.jalon@gmail.com)
 
-### Github Stats
 
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardJalonG)](https://github.com/GerardJalonG/github-readme-stats)
+<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="left" />
 

@@ -9,9 +9,10 @@
 Soy un apasionado de la tecnología y la programación, actualmente cursando el título de DAM. Me interesa el desarrollo de aplicaciones móviles y de escritorio, así como la innovación en interfaces y experiencia de usuario.
 
 ## Tecnologías que uso 💻
- - Lenguajes de programación: Java, Python, C, SQL
- - Control de versiones: Git y GitHub
- - Herramientas de desarrollo: Visual Studio Code, IntelliJ IDEA
+ - Lenguajes de programación: <img src="{https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white}" />, <img src="{	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />, <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
+ - Desarrollo Web: <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" /> , <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
+ - Control de versiones: <img src="{https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white}" />, <img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}" />
+ - Herramientas de desarrollo: <img src="{https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />, <img src="{https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white}" />
 
 ## Contacto 📨
 

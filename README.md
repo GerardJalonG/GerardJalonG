@@ -20,6 +20,6 @@ Soy un apasionado de la tecnología y la programación, actualmente cursando el 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gerard.jalon@gmail.com)](mailto:gerard.jalon@gmail.com)
 
 
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="left" />
+<img src="https://raw.githubusercontent.com/GerardJalonG/GerardJalonG/output/snake.svg" alt="Snake animation" />
 
 ![GerardJalonG's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardjalong&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)

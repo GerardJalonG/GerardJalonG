@@ -20,6 +20,39 @@ Soy un apasionado de la tecnología y la programación, actualmente cursando el 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gerard.jalon@gmail.com)](mailto:gerard.jalon@gmail.com)
 
 
+![GerardJalonG's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardjalong&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/GerardJalonG/GerardJalonG/output/snake.svg" alt="Snake animation" />
 
-![GerardJalonG's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardjalong&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+###
+
+<img src="https://raw.githubusercontent.com/GerardJalonG/GerardJalonG/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/GerardJalonG/GerardJalonG/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/GerardJalonG/GerardJalonG/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/GerardJalonG/GerardJalonG/output/snake.svg" alt="Snake animation" />
+
+###
